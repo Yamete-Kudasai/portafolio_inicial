@@ -1,0 +1,9 @@
+.btn-outline-primary{
+    border: solid 2px white;
+    background-color: white;
+    border-radius: 30px;
+}
+.btn-outline-primary:hover{
+    background-color: transparent;
+    border: solid 2px white;
+}
